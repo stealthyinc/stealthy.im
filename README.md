@@ -18,8 +18,8 @@ Stealthy has a standalone mobile app that will soon be available in both the App
 
 If you're just starting with Stealthy, here are the main software repositories you should checkout:
 
-- [Stealthy Web App](https://github.com/stealthy/webapp) - the implementation of Stealthy's web p2p chat product that won Blockstack's communication hackathon written in React JS.
-- [Stealthy Mobile App](https://github.com/stealthy/mobile) - the implementation of Stealthy's iOS/Android app that has dApp integrations, e2e chat, notifications, discovery, etc written in React Native JS (pending).
+- [Stealthy Web App](https://github.com/stealthyim/webapp) - the implementation of Stealthy's web p2p chat product that won Blockstack's communication hackathon written in React JS.
+- [Stealthy Mobile App](https://github.com/stealthyim/mobile) - the implementation of Stealthy's iOS/Android app that has dApp integrations, e2e chat, notifications, discovery, etc written in React Native JS (pending).
 
 ## Protocol Architecture
 
