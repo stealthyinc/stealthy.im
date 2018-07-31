@@ -4,7 +4,7 @@ Stealthy is a decentralized and encrypted communication protocol that empowers u
 
 With Stealthy, developers can focus on building their dream dApp and offload the communication infrastructure to our protocol.
 
-Check it out at https://stealthy.im
+Check it out at https://www.stealthy.im
 
 ## Motivation
 
@@ -37,7 +37,7 @@ The Stealthy communication protocol is shown below:
 
 Stealthy uses public key encryption to setup communications between users. Standalone dApps need to setup a new network of users that need to login to the app before discovery/communications can begin.
 
-With Stealthy, dApp partners get access to the social graph of Stealthy and other dApp partners immediately. The end user also benefits by being able to immediately collaborate with their existing contacts. This allows a larger audience for you dApp without the headaches of rebuilding the wheel each time.
+With Stealthy, dApp partners get access to the social graph of Stealthy and other dApp partners immediately. The end user also benefits by being able to immediately collaborate with their existing contacts. This allows a larger audience for your dApp without the headaches of rebuilding the wheel each time.
 
 ## Developer Partnerships
 
