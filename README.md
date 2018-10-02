@@ -4,7 +4,11 @@ Stealthy is a decentralized and encrypted communication protocol that empowers u
 
 With Stealthy, developers can focus on building their dream dApp and offload the communication infrastructure to our protocol.
 
-Check it out at https://www.stealthy.im
+Homepage: https://www.stealthy.im
+
+iOS Download: https://itunes.apple.com/us/app/stealthy-im/id1382310437?ls=1&mt=8
+
+Android Download: https://play.google.com/store/apps/details?id=com.stealthy
 
 ## Motivation
 
