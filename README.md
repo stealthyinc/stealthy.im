@@ -18,19 +18,24 @@ Stealthy finally offers users a decentralized alternative to the status quo. Wit
 
 Stealthy has a standalone mobile app that will soon be available in both the Apple and Google App store. Stealthy is open source and available for contributions. 
 
+## Features Roadmap 
+
+- [ ] Self-hosted Private Channels
+- [ ] Stacks Wallet Integration
+- [ ] Electron Desktop App
+- [ ] Privately import contacts graph
+- [ ] Integrate Gun DB
+- [ ] Login with Stealthy
+- [ ] Performance & UX improvements
+- [ ] Messaging features: Group messaging, attachments, gifs etc
+- [ ] Deeper dApp integrations: blog or post to social media from Stealthy
+
 ## Current Features (1.6)
 
 - [x] iOS & Android Support
 - [x] Public channels: topic discussion or dApp support
 - [x] Private 1:1 messaging: client side encrypted for recipient
 - [x] [iOS] Sharing and collaboration with other dApps (Graphite and Travelstack)
-
-## Features Roadmap
-
-- [ ] Performance & UX improvements
-- [ ] Messaging features: Group messaging, attachments, gifs etc
-- [ ] Deeper dApp integrations: blog or post to social media from Stealthy
-- [ ] Lightning network integration for transactions
 
 ## Code
 
