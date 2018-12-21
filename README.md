@@ -30,7 +30,7 @@ Stealthy has a standalone mobile app that will soon be available in both the App
 - [ ] Messaging features: Group messaging, attachments, gifs etc
 - [ ] Deeper dApp integrations: blog or post to social media from Stealthy
 
-## Current Features (1.6)
+## Current Features (1.8)
 
 - [x] iOS & Android Support
 - [x] Public channels: topic discussion or dApp support
