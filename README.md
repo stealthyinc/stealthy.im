@@ -21,8 +21,9 @@ Stealthy has a standalone mobile app that will soon be available in both the App
 ## Features Roadmap 
 
 - [ ] Self-hosted Private Channels
-- [ ] Stacks Wallet Integration
+- [ ] Share to Stealthy from 3rd party apps
 - [ ] Electron Desktop App
+- [ ] Stacks Wallet Integration
 - [ ] Privately import contacts graph
 - [ ] Integrate Gun DB
 - [ ] Login with Stealthy
