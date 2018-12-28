@@ -20,23 +20,23 @@ Stealthy has a standalone mobile app that will soon be available in both the App
 
 ## Features Roadmap 
 
-- [ ] Self-hosted Private Channels
-- [ ] Share to Stealthy from 3rd party apps
 - [ ] Electron Desktop App
-- [ ] Stacks Wallet Integration
 - [ ] Privately import contacts graph
+- [ ] Share to Stealthy from 3rd party apps
+- [ ] Self-hosted Private Channels
+- [ ] Messaging features: Group messaging, attachments, gifs etc
+- [ ] Stacks Wallet Integration
 - [ ] Integrate Gun DB
 - [ ] Login with Stealthy
-- [ ] Performance & UX improvements
-- [ ] Messaging features: Group messaging, attachments, gifs etc
 - [ ] Deeper dApp integrations: blog or post to social media from Stealthy
+- [ ] Performance & UX improvements
 
 ## Current Features (1.8)
 
 - [x] iOS & Android Support
 - [x] Public channels: topic discussion or dApp support
 - [x] Private 1:1 messaging: client side encrypted for recipient
-- [x] [iOS] Sharing and collaboration with other dApps (Graphite and Travelstack)
+- [x] [Beta] Sharing and collaboration with other dApps (Graphite and Travelstack)
 
 ## Code
 
