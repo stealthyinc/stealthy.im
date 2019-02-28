@@ -31,7 +31,7 @@ Stealthy has a standalone mobile app that will soon be available in both the App
 - [ ] Deeper dApp integrations: blog or post to social media from Stealthy
 - [ ] Performance & UX improvements
 
-## Current Features (1.8)
+## Current Features (2.2)
 
 - [x] iOS & Android Support
 - [x] Public channels: topic discussion or dApp support
